@@ -42,6 +42,28 @@ animation pack (see [Custom animations](#custom-animations)).
 | Animation registry | custom → native GTA → safe (no clip) fallback per entry, overrides and per-clip offsets |
 | Debug tools | Raycast overlay, state / pipeline panels, reason codes, profiler, snapshot, animation report, tuning menu |
 
+## Showcase
+Wallflip
+https://streamable.com/lu759s
+
+Slide
+https://streamable.com/yy6uaj
+
+Long Jump
+https://streamable.com/fthc9e
+
+Vault
+https://streamable.com/2vz73t
+
+Wall Run
+https://streamable.com/227qqc
+
+Climb + Shimmy
+https://streamable.com/9j4otv
+
+Balance
+https://streamable.com/b2vift
+
 ## Requirements
 
 Required:
