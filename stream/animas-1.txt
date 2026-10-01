@@ -1,0 +1,10 @@
+parkour@anims big_jump_01
+parkour@anims front_twist_flip
+parkour@anims jump_over_01
+parkour@anims jump_over_02
+parkour@anims slide_kip_up
+parkour@anims jump_over_03
+parkour@anims slide_backside
+parkour@anims slide
+parkour@anims swing_jump
+parkour@anims wall_flip

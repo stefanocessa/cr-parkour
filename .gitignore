@@ -1,0 +1,36 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / AI assistants (local tooling, never meant for the public repo)
+.vscode/
+.idea/
+*.code-workspace
+.claude/
+.cursor/
+CLAUDE.md
+AGENTS.md
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.orig
+*~
+*.swp
+
+# Archives, captures
+*.zip
+*.rar
+*.7z
+*.mp4
+*.mkv
+*.webm
+
+# Local test files
+test-config.lua
+
+
